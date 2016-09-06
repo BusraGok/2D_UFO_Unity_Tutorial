@@ -3,10 +3,10 @@ using System.Collections;
 
 public class Rotator : MonoBehaviour {
 
-
+    //furkan
 	void Update () {
 
 		transform.Rotate (new Vector3 (0, 0, 45) * Time.deltaTime);
-	
+
 	}
 }
