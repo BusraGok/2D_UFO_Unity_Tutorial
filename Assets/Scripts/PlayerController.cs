@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class PlayerController : MonoBehaviour {
@@ -23,7 +23,7 @@ public class PlayerController : MonoBehaviour {
 
 
 	void OnTriggerEnter2D(Collider2D other) {
-		GameObject			//setActive	//tag.
+		GameObject			//setActive	//tag
 	}
 
 
